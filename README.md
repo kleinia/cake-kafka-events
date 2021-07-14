@@ -1,4 +1,4 @@
-# cakephp-kafka-events
+# cake-kafka-events
 Adds support for sourcing events into Kafka in a CakePHP 3 application.
 
 ## Install
@@ -6,7 +6,7 @@ Adds support for sourcing events into Kafka in a CakePHP 3 application.
 Using [Composer][composer]:
 
 ```
-composer require kleinia/cakephp-kafka-events
+composer require kleinia/cake-kafka-events
 ```
 
 After installation, [Load the plugin](http://book.cakephp.org/3.0/en/plugins.html#loading-a-plugin)
